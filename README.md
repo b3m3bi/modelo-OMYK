@@ -8,13 +8,13 @@ Disponible en:
 
 **Contenido**
 
-`codigo`: código del modelo implementado en NetLogo 6.0.4
+[`codigo/`](codigo/): código del modelo implementado en NetLogo 6.0.4
 
-`red-booleana`: análisis e figuras de la red booleana que forma parte del modelo
+[`red-booleana`](red-booleana/): análisis e figuras de la red booleana que forma parte del modelo
 
-`resultados`: resultados de los experimentos, código de la visualización de datos y figuras (debido al tamaño de los archivos los resultados del análisis de sensibilidad y de los escenarios no se incluye)
+[`resultados`](resultados/): resultados de los experimentos, código de la visualización de datos y figuras (debido al tamaño de los archivos los resultados del análisis de sensibilidad y de los escenarios no se incluye)
 
-`figuras-adicionales`: código y datos de figuras adicionales
+[`figuras-adicionales`](figuras-adicionales/): código y datos de figuras adicionales
 
 **Licencia**
 
