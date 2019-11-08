@@ -2,9 +2,9 @@
 
 Repositorio del código del modelo y figuras de la tesis:
 
-"Modelo dinámico para explorar el manejo del socio-ecosistema asociado al Área Natural Protegida *Otoch Ma'ax Yetel Kooh*, Península de Yucatán"
+"Modelo dinámico para explorar el manejo del socio-ecosistema asociado al Área Natural Protegida *Otoch Ma'ax Yetel Kooh*, Península de Yucatán, México"
 
-Disponible en: 
+Disponible en:
 
 **Contenido**
 
