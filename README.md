@@ -17,4 +17,5 @@ Disponible en:
 `figuras-adicionales`: código y datos de figuras adicionales
 
 **Licencia**
+
 Código bajo licencia [MIT](https://opensource.org/licenses/MIT)
