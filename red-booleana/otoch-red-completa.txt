@@ -1,0 +1,22 @@
+targets, factors 
+
+####### subsistema CLIMA #######
+
+temperatura, ! precipitacion
+presion, ! temperatura
+precipitacion, ! presion
+
+###### subsistema TURISMO ######
+
+turistas, precipitacion | ! precipitacion
+turistasA, turistas & temperatura & ( presion | precipitacion )
+
+#### subsistema ACTIVIDADES ####
+
+abrirMilpa, temperatura & presion & ! precipitacion
+sembrarMilpa, abrirMilpa
+milpaJoven, sembrarMilpa & precipitacion
+milpaAdulta, milpaJoven & precipitacion 
+cosechaMilpa, milpaAdulta & precipitacion
+cosechaApicultura, ! precipitacion
+produccionCarbon, ! cosechaMilpa
